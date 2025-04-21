@@ -1,12 +1,12 @@
 # MPhys_York_d_star_hexaquark
-The d∗ hexaquark Bose-Einstein Condensate
+The d star hexaquark Bose-Einstein Condensate
 has a unique self-interaction that can explain the variation in rotation curves between
 galaxies and the variety seen in dark matter distributions. Using first principles to lay
 a secure foundation, this unknown and complex system could contain thousands or
-even millions of hexaquarks. Discovering the complex interplay between mass and ve-
-locity across parameter space has revealed fascinating kinematics never seen before.
+even millions of hexaquarks. Discovering the complex interplay between mass and velocity 
+across parameter space has revealed fascinating kinematics never seen before.
 
-#Hexaquark Exchange Code
+Hexaquark Exchange Code
 The results obtained place novel estimates on the parameterised binding energy and
 density ratio to baryonic matter that governs the condensate mass.
 
