@@ -6,7 +6,7 @@ a secure foundation, this unknown and complex system could contain thousands or
 even millions of hexaquarks. Discovering the complex interplay between mass and velocity 
 across parameter space has revealed fascinating kinematics never seen before.
 
-Hexaquark Exchange Code
+#Hexaquark Exchange Code
 The results obtained place novel estimates on the parameterised binding energy and
 density ratio to baryonic matter that governs the condensate mass.
 
