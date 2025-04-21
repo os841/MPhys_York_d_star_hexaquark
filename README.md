@@ -7,14 +7,17 @@ even millions of hexaquarks. Discovering the complex interplay between mass and 
 across parameter space has revealed fascinating kinematics never seen before.
 
 #Hexaquark Exchange Code
+
 The results obtained place novel estimates on the parameterised binding energy and
 density ratio to baryonic matter that governs the condensate mass.
 
 #Meson Exchange
+
 Create a picture of hexaquark self-interaction using the deuteron as a fermionic
 analogy to study the bosonic objects. 
 
 #Dark matter density distribution as SIDM
+
 Finally, the dark matter density distribution of the Milky Way will be modelled using 
 the kinematics derived from the hexaquark exchange code of this model. 
 
